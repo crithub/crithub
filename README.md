@@ -6,4 +6,3 @@ web stuff, and I hope you like it
 Thanks  
 -Criterion  
 Founder of Criterion Creations  
-a SnouterCWK company
