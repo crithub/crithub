@@ -10,7 +10,7 @@ Want me to give you a run down on my specs?
 
 CPU: AMD Ryzen 3 3100 4c/8t @ 3.6GHz  
 RAM: 16GB Corsair Vengeance DDR4-3200  
-Storage: 256GB Verbatim Vi550 S3 SSD + 1TB Toshiba P110 HDD  
+Int. Storage: 256GB Verbatim Vi550 S3 SSD + 1TB Toshiba P110 HDD  
 Motherboard: Asrock A320M-HDV R4.0  
 Graphics: Asus Dual Mini GeForce GTX 1650 OC 4GB GDDR6  
 Case: CiT Tornado RGB  
@@ -28,11 +28,12 @@ It's now being used as a file server
 
 CPU: Intel Celeron 2950M 2c/2t @ 2GHz
 RAM: 4GB DDR3-1600 (unknown brand)
-Storage: 320GB WD Blue 2.5" 5400RPM HDD + 2TB Toshiba Canvio External HDD + 320GB Toshiba SATA2 HDD Enclosed  
+Int. Storage: 320GB WD Blue 2.5" 5400RPM HDD  
 Motherboard: Clevo 6-77-W550SU10-D03A  
 Graphics: Integrated  
 Case: It's a laptop, duh  
 OS: Ubuntu 20.04 stripped of GUI  
+Ext. Storage: Toshiba Canvio Basics 2TB (codenamed Orion) + Toshiba MQ01ABD032 320GB HDD in USB3 Enclosure (codenamed Frankfurt)  
 
 In the future, the Stone will be used together with a Raspberry Pi 4 4GB model:  
 
