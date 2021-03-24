@@ -26,8 +26,8 @@ Let's move onto the servers, shall we?
 This was once my daily driver until I got my first PC in 2020, it's an old Stone NT310-H from 2014.  
 It's now being used as a file server
 
-CPU: Intel Celeron 2950M 2c/2t @ 2GHz
-RAM: 4GB DDR3-1600 (unknown brand)
+CPU: Intel Celeron 2950M 2c/2t @ 2GHz  
+RAM: 4GB DDR3-1600 (unknown brand)  
 Int. Storage: 320GB WD Blue 2.5" 5400RPM HDD  
 Motherboard: Clevo 6-77-W550SU10-D03A  
 Graphics: Integrated  
