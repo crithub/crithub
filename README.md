@@ -35,11 +35,9 @@ Case: It's a laptop, duh
 OS: Ubuntu 20.04 stripped of GUI  
 Ext. Storage: Toshiba Canvio Basics 2TB (codenamed Orion) + Toshiba MQ01ABD032V 320GB HDD in USB3 Enclosure (codenamed Frankfurt)  
 
-In the future, the Stone will be used together with a Raspberry Pi 4 4GB model:  
-
 ### COBALT-MAINSRV (future codename)
 
-This server will begin operations on March 27th, succeeding the Stone.
+This server, a Raspberry Pi 4B, will begin operations on March 27th, succeeding the Stone.
 
 SoC: Broadcom BCM2711  
 CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
