@@ -33,7 +33,7 @@ Motherboard: Clevo 6-77-W550SU10-D03A
 Graphics: Integrated  
 Case: It's a laptop, duh  
 OS: Ubuntu 20.04 stripped of GUI  
-Ext. Storage: Toshiba Canvio Basics 2TB (codenamed Orion) + Toshiba MQ01ABD032 320GB HDD in USB3 Enclosure (codenamed Frankfurt)  
+Ext. Storage: Toshiba Canvio Basics 2TB (codenamed Orion) + Toshiba MQ01ABD032V 320GB HDD in USB3 Enclosure (codenamed Frankfurt)  
 
 In the future, the Stone will be used together with a Raspberry Pi 4 4GB model:  
 
