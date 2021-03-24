@@ -38,7 +38,7 @@ In the future, the Stone will be used together with a Raspberry Pi 4:
 ### COBALT-MAINSRV
 
 SoC: Broadcom BCM2711  
-CPU: ARM Cortex A72 4c/4t @ 1.5GHz
+CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
 RAM: 4GB LPDDR4-3200 soldered onto the board  
 Storage: 128GB SanDisk Extreme Pro microSD card, will be replaced with a 250GB Samsung 870 EVO SATA SSD.  
 Graphics: Broadcom VideoCore 6 @ 500-600MHz  
