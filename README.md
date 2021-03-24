@@ -21,7 +21,7 @@ Let's move onto the servers, shall we?
 
 ## Server Specs  
 
-### COBALT-FILESRV
+### COBALT-FILESRV (future codename)
 
 This was once my daily driver until I got my first PC in 2020, it's an old Stone NT310-H from 2014.  
 
@@ -35,7 +35,7 @@ OS: Ubuntu 20.04 stripped of GUI
 
 In the future, the Stone will be used together with a Raspberry Pi 4:  
 
-### COBALT-MAINSRV
+### COBALT-MAINSRV (future codename)
 
 SoC: Broadcom BCM2711  
 CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
