@@ -51,5 +51,5 @@ Well, that was a rundown of my specs I guess
 You can mainly reach me via [Discord](dsc.bio/criterion4101) :speech_balloon:
 All my other usernames will be on the link above.
 
-Thanks for reading!
--Cobalt
+Thanks for reading and god speed!  
+-Cobalt  
