@@ -21,13 +21,14 @@ Let's move onto the servers, shall we?
 
 ## Server Specs  
 
-### COBALT-FILESRV (future codename)
+### COBALT-FILESRV
 
 This was once my daily driver until I got my first PC in 2020, it's an old Stone NT310-H from 2014.  
+It's now being used as a file server
 
 CPU: Intel Celeron 2950M 2c/2t @ 2GHz
 RAM: 4GB DDR3-1600 (unknown brand)
-Storage: 320GB WD Blue 2.5" 5400RPM HDD + 2TB Toshiba Canvio External HDD  
+Storage: 320GB WD Blue 2.5" 5400RPM HDD + 2TB Toshiba Canvio External HDD + 320GB Toshiba SATA2 HDD Enclosed  
 Motherboard: Clevo 6-77-W550SU10-D03A  
 Graphics: Integrated  
 Case: It's a laptop, duh  
@@ -36,6 +37,8 @@ OS: Ubuntu 20.04 stripped of GUI
 In the future, the Stone will be used together with a Raspberry Pi 4 4GB model:  
 
 ### COBALT-MAINSRV (future codename)
+
+This server will begin operations on March 27th, succeeding the Stone.
 
 SoC: Broadcom BCM2711  
 CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
