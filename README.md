@@ -33,7 +33,7 @@ Graphics: Integrated
 Case: It's a laptop, duh  
 OS: Ubuntu 20.04 stripped of GUI  
 
-In the future, the Stone will be used together with a Raspberry Pi 4:  
+In the future, the Stone will be used together with a Raspberry Pi 4 4GB model:  
 
 ### COBALT-MAINSRV (future codename)
 
