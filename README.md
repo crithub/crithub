@@ -44,7 +44,7 @@ CPU: ARM Cortex A72 4c/4t @ 1.5GHz
 RAM: 4GB LPDDR4-3200 soldered onto the board  
 Storage: 128GB SanDisk Extreme Pro microSD card, will be replaced with a 250GB Samsung 870 EVO SATA SSD.  
 Graphics: Broadcom VideoCore 6 @ 500-600MHz  
-OS: Either Raspberry Pi OS Lite or Ubuntu Server 20.04 (this will be a headless setup)  
+OS: Raspberry Pi OS Lite 32 bit
 
 Well, that was a rundown of my specs I guess
 
