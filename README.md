@@ -37,7 +37,7 @@ Ext. Storage: Toshiba Canvio Basics 2TB (codenamed Orion) + Toshiba MQ01ABD032V 
 
 ### COBALT-MAINSRV (future codename)
 
-This server, a Raspberry Pi 4B, will begin operations on March 27th, succeeding the Stone.
+This server, a Raspberry Pi 4B, has began operations as of March 25th, and will be prioritised in mid April.
 
 SoC: Broadcom BCM2711  
 CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
