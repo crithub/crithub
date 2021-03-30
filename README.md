@@ -40,7 +40,7 @@ This server, a Raspberry Pi 4B, has began operations as of March 25th, and will 
 SoC: Broadcom BCM2711  
 CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
 RAM: 4GB LPDDR4-3200 soldered onto the board  
-Storage: 128GB SanDisk Extreme Pro microSD card, will be replaced with a 250GB Samsung 870 EVO SATA SSD.  
+Storage: 128GB SanDisk Extreme Pro microSD card, will be replaced with a 480GB Kingston A400 SATA SSD.  
 Graphics: Broadcom VideoCore 6 @ 500-600MHz  
 OS: Raspberry Pi OS Lite 32 bit
 
