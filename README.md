@@ -30,7 +30,7 @@ CPU: Intel Celeron 2950M 2c/2t @ 2GHz
 RAM: 4GB DDR3-1600 (unknown brand)  
 Int. Storage: 320GB WD Blue 2.5" 5400RPM HDD  
 Motherboard: Clevo 6-77-W550SU10-D03A  
-OS: Ubuntu 20.04 stripped of GUI  
+OS: Ubuntu Server 20.04.2 LTS
 Ext. Storage: Toshiba Canvio Basics 2TB (codenamed Orion) + Toshiba MQ01ABD032V 320GB HDD in USB3 Enclosure (codenamed Frankfurt)  
 
 ### COBALT-MAINSRV (future codename)
