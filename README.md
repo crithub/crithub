@@ -27,7 +27,7 @@ This was once my daily driver until I got my first PC in 2020, it's an old Stone
 
 CPU: Intel Celeron 2950M 2c/2t @ 2GHz  
 RAM: 4GB DDR3-1600 (unknown brand)  
-Int. Storage: 256GB Kingston KC600 SATA3 SSD
+Int. Storage: 256GB Kingston KC600 SATA3 SSD  
 Motherboard: Clevo 6-77-W550SU10-D03A  
 OS: Ubuntu Server 20.04.2 LTS
 
