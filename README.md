@@ -31,16 +31,6 @@ Int. Storage: 256GB Kingston KC600 SATA3 SSD
 Motherboard: Clevo 6-77-W550SU10-D03A  
 OS: Ubuntu Server 20.04.2 LTS
 
-### COBALT-MICROSRV  
-
-This server, a Raspberry Pi 4B, has began operations as of March 25th, and will be prioritised in mid April.
-
-SoC: Broadcom BCM2711  
-CPU: ARM Cortex A72 4c/4t @ 1.5GHz  
-RAM: 4GB LPDDR4-3200 soldered onto the board  
-Storage: 128GB SanDisk Extreme Pro microSD card  
-Graphics: Broadcom VideoCore 6 @ 500-600MHz  
-OS: Raspberry Pi OS Lite 32 bit  
 
 Well, that was a rundown of my specs I guess
 
