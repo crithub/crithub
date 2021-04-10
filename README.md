@@ -38,7 +38,7 @@ This server will be a Dell Optiplex 3020 MFF that I found on an eBay auction. Ex
 
 CPU: Intel Core i3 4160T 2c/4t @ 3.1GHz  
 RAM: 8GB DDR3-1600 (unknown brand)  
-Int. Storage: 128GB SSD  
+Int. Storage: 128GB SATA3 SSD (unknown, possibly Kingston)  
 Motherboard: Unknown  
 OS: Ubuntu Server 20.04.2 LTS  
 Price: ~£20  
