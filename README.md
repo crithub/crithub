@@ -56,7 +56,7 @@ Well, that was a rundown of my specs I guess
 
 ## CONTACT ME
 
-You can mainly reach me via [Discord](dsc.bio/criterion4101) :speech_balloon:  
+You can mainly reach me via [Discord](http://dsc.bio/cobalthasdiscord) :speech_balloon:  
 All my other usernames will be on the Discord.bio link above.  
 
 Thanks for reading and god speed!  
