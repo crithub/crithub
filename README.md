@@ -34,14 +34,23 @@ Price: £30, ~£70 after SSD upgrade
 
 ### Cobalt-MINISRV (future codename, unconfirmed)  
 
-This server will be a Dell Optiplex 3020 MFF that I found on an eBay auction. Expect this server to start operations at the end of April if I win the auction.  
+This is a Dell Optiplex 3020 MFF that I found on an eBay auction. Expect this server to start operations at the end of April if I win the auction.  
 
 CPU: Intel Core i3 4160T 2c/4t @ 3.1GHz  
 RAM: 8GB DDR3-1600 (unknown brand)  
-Int. Storage: 128GB SATA3 SSD (unknown, possibly Kingston)  
-Motherboard: Unknown  
+Int. Storage: 128GB SATA3 SSD (unknown, possibly Kingston)    
 OS: Ubuntu Server 20.04.2 LTS  
 Price: ~£20  
+
+### Cobalt-VSRV  
+
+This server is a Nanode VPS I got from Linode.
+
+CPU: AMD Epyc 7601 32c/64t (1 vCPU)  
+RAM: 1GB DDR4 (unknown)  
+Int. Storage: 25GB SSD  
+OS: Debian 10 (Buster)  
+Price: Free for 2 months, then ~£4 a month  
 
 Well, that was a rundown of my specs I guess
 
