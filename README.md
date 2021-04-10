@@ -4,7 +4,7 @@ It's me, Cobalt.
 I'm a noob web developer who likes to tinker around with servers  
 and other shit.  
 
-Want me to give you a run down on my specs?  
+Here's my setup specs, for those who want to see  
 
 ## Main Computer Specs  
 
