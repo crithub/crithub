@@ -29,8 +29,8 @@ CPU: Intel Celeron 2950M 2c/2t @ 2GHz
 RAM: 4GB DDR3-1600 (unknown brand)  
 Int. Storage: 256GB Kingston KC600 SATA3 SSD  
 Motherboard: Clevo 6-77-W550SU10-D03A  
-OS: Ubuntu Server 20.04.2 LTS
-Price: £30  
+OS: Ubuntu Server 20.04.2 LTS  
+Price: £30, ~£70 after SSD upgrade 
 
 ### Cobalt-MINISRV (future codename, unconfirmed)  
 
