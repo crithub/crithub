@@ -34,13 +34,13 @@ Price: £30, ~£70 after SSD upgrade
 
 ### Cobalt-VSRV  
 
-This server is a Nanode VPS I got from Linode.
+This server is a Hetzner CPX31 cloud server.  
 
-CPU: AMD Epyc 7601 32c/64t (1 vCPU)  
-RAM: 1GB DDR4 (unknown)  
-Int. Storage: 25GB SSD  
+CPU: AMD Epyc 2nd gen - 4vCPUs @ 2.5GHz  
+RAM: 8GB DDR4 (unknown)  
+Int. Storage: 160GB NVMe SSD  
 OS: Debian 10.9 (Buster)  
-Price: Free for 2 months, then ~£4 a month  
+Price: ~£10 a month    
 
 Well, that was a rundown of my specs I guess
 
