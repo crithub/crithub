@@ -21,20 +21,20 @@ Let's move onto the servers, shall we?
 
 ## Server Specs  
 
-### Cobalt-SRV1
+### Cobalt-OMV
 
-This was once my daily driver until I got my first PC in 2020, it's an old Stone NT310-H from 2014.  
+This was once my daily driver for about 3-4 months until I got my first PC in 2020, it's an old Stone NT310-H from 2014, operating as a Plex media server and file server.   
 
 CPU: Intel Celeron 2950M 2c/2t @ 2GHz  
 RAM: 4GB DDR3-1600 (unknown brand)  
 Int. Storage: 256GB Kingston KC600 SATA3 SSD  
 Motherboard: Clevo 6-77-W550SU10-D03A  
-OS: Debian 10.9 (Buster)  
-Price: £30, ~£70 after SSD upgrade 
+OS: OpenMediaVault 5.6.5-1 (Usul) (based on Debian Stable)  
+Price: £30, ~£70 after SSD upgrade  
 
 ### Cobalt-VSRV  
 
-This server is a Hetzner CPX31 cloud server.  
+This server is a Hetzner CPX31 cloud server running some Docker containers.  
 
 CPU: AMD Epyc 2nd gen - 4vCPUs @ 2.5GHz  
 RAM: 8GB DDR4 (unknown)  
