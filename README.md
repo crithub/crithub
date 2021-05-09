@@ -32,16 +32,6 @@ Motherboard: Clevo 6-77-W550SU10-D03A
 OS: OpenMediaVault 5.6.5-1 (Usul) (based on Debian Stable)  
 Price: £30, ~£70 after SSD upgrade  
 
-### Cobalt-VSRV  
-
-This server is a Hetzner CPX31 cloud server running some Docker containers.  
-
-CPU: AMD Epyc 2nd gen - 4vCPUs @ 2.5GHz  
-RAM: 8GB DDR4 (unknown)  
-Int. Storage: 160GB NVMe SSD  
-OS: Debian 10.9 (Buster)  
-Price: ~£10 a month    
-
 Well, that was a rundown of my specs I guess
 
 ## CONTACT ME
