@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 It's me, Cobalt.  
-I'm a noob web developer who likes to tinker around with servers  
-and other shit.  
+I'm currently looking into Docker and Linux containers  
+I also like to play with servers and shit  
 
 Here's my setup specs, for those who want to see  
 
