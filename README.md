@@ -29,7 +29,7 @@ It's an old HP-Compaq Elite 8200 SFF PC from 2011.
 CPU: Intel Core i5-2400 4c/4t @ 3.4GHz  
 RAM: 8GB DDR3-1333 (unknown brand)  
 Int. Storage: 256GB Kingston KC600 SATA3 SSD + 250GB WD Caviar Blue HDD  
-Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)
+Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)  
 Networking: Gigabit Ethernet  
 OS: Debian GNU/Linux 10.9 (Buster)  
 Price: £70  
