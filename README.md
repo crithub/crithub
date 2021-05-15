@@ -21,16 +21,17 @@ Let's move onto the servers, shall we?
 
 ## Server Specs  
 
-### Cobalt-OMV
+### Cobalt-SRV
 
-This was once my daily driver for about 3-4 months until I got my first PC in 2020, it's an old Stone NT310-H from 2014, operating as a Plex media server and file server.   
+I bought this server not long ago (May 11th), and I've had some trouble with it for its first day or so, but we're up and running now.  
+It's an old HP Elite 8200 SFF PC.
 
-CPU: Intel Celeron 2950M 2c/2t @ 2GHz  
-RAM: 4GB DDR3-1600 (unknown brand)  
-Int. Storage: 256GB Kingston KC600 SATA3 SSD  
-Motherboard: Clevo 6-77-W550SU10-D03A  
-OS: OpenMediaVault 5.6.5-1 (Usul) (based on Debian Stable)  
-Price: £30, ~£70 after SSD upgrade  
+CPU: Intel Core i5-2400 4c/4t @ 3.4GHz  
+RAM: 8GB DDR3-1333 (unknown brand)  
+Int. Storage: 256GB Kingston KC600 SATA3 SSD + 250GB WD Caviar Blue HDD  
+Motherboard: Unknown  
+OS: Debian GNU/Linux 10.9 (Buster)  
+Price: £70  
 
 Well, that was a rundown of my specs I guess
 
