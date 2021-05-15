@@ -23,7 +23,7 @@ Let's move onto the servers, shall we?
 
 ### Cobalt-SRV
 
-I bought this server not long ago (May 11th), and I've had some trouble with it for its first day or so, but we're up and running now.  
+I bought this server not long ago (May 11th), and I've had some trouble with it for its first day or so*, but we're up and running now.  
 It's an old HP Elite 8200 SFF PC.
 
 CPU: Intel Core i5-2400 4c/4t @ 3.4GHz  
@@ -32,6 +32,9 @@ Int. Storage: 256GB Kingston KC600 SATA3 SSD + 250GB WD Caviar Blue HDD
 Motherboard: Unknown  
 OS: Debian GNU/Linux 10.9 (Buster)  
 Price: £70  
+
+\*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
+  (I was getting SMART errors on boot and BSODs, so I had to do with the 250GB HDD on day one.)
 
 Well, that was a rundown of my specs I guess
 
