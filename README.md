@@ -29,12 +29,23 @@ It's an old HP-Compaq Elite 8200 SFF PC from 2011.
 CPU: Intel Core i5-2400 4c/4t @ 3.4GHz  
 RAM: 8GB DDR3-1333 (unknown brand)  
 Int. Storage: 256GB Kingston KC600 SATA3 SSD + 250GB WD Caviar Blue HDD  
-Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)  
+Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)
+Networking: Gigabit Ethernet  
 OS: Debian GNU/Linux 10.9 (Buster)  
 Price: £70  
 
 \*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
   (I was getting SMART errors on boot and BSODs, so I had to do with the 250GB HDD on day one.)
+
+### Cobalt-PROXYSRV
+
+This is simply just used as a reverse proxy for the Minecraft server and to host [the website that accompanies it](https://cobaltmc.tk)  
+It's a Hetzner CX11 VPS, costing just £2.58 a month for the following resources.  
+
+CPU: Intel Xeon Skylake (1 vCPU @ 2.25GHz)  
+RAM: 2GB DDR4 (unknown)  
+Storage: 20GB NVMe SSD
+Networking: 10 Gigabit Ethernet  
 
 Well, that was a rundown of my specs I guess
 
