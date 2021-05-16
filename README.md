@@ -44,7 +44,7 @@ It's a Hetzner CX11 VPS, costing just £2.58 a month for the following resources
 
 CPU: Intel Xeon Skylake (1 vCPU @ 2.25GHz)  
 RAM: 2GB DDR4 (unknown)  
-Storage: 20GB NVMe SSD
+Storage: 20GB NVMe SSD  
 Networking: 10 Gigabit Ethernet  
 OS: CentOS Linux 8  
 
