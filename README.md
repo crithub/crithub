@@ -46,6 +46,7 @@ CPU: Intel Xeon Skylake (1 vCPU @ 2.25GHz)
 RAM: 2GB DDR4 (unknown)  
 Storage: 20GB NVMe SSD
 Networking: 10 Gigabit Ethernet  
+OS: CentOS Linux 8  
 
 Well, that was a rundown of my specs I guess
 
