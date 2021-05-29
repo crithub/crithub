@@ -37,7 +37,7 @@ Price: £70
 \*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
   (I was getting SMART errors on boot and BSODs, so I had to do with the 250GB HDD on day one.)
 
-### Cobalt-PROXYSRV
+### Web server (no assigned hostname, using Hetzner default)
 
 This is simply just used as a host for the [Cobalt Online website](https://cobaltonline.ml)  
 It's a Hetzner CX11 VPS, costing just £2.58 a month for the following resources.  
