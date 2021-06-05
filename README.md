@@ -41,7 +41,7 @@ Price: £70 + £12 for USB card = £82
 
 ### Web server (no assigned hostname, using Hetzner default)
 
-This is simply just used as a host for the [Cobalt Online website](https://cobaltonline.ml)  
+This is simply just used as a reverse proxy for the Minecraft server (IP is cobalt-online.xyz)
 It's a Hetzner CX11 VPS, costing just £2.58 a month for the following resources.  
 
 CPU: Intel Xeon Skylake (1 vCPU @ 2.25GHz)  
