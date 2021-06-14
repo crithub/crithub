@@ -33,7 +33,7 @@ Int. Storage: 256GB Kingston KC600 SATA3 SSD + 250GB WD Caviar Blue HDD
 Ext. Storage: 2TB Toshiba Canvio Basics USB 3.0 HDD  
 Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)  
 Networking: Gigabit Ethernet  
-OS: OpenMediaVault v5.6.7-1 (Usul) (based on Debian stable)  
+OS: Debian 10.9 (Buster)  
 Price: £70 + £12 for USB card = £82  
 
 \*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
