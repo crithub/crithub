@@ -11,11 +11,11 @@ Here's my setup specs, for those who want to see
 CPU: AMD Ryzen 3 3100 4c/8t @ 3.6GHz  
 RAM: 16GB Corsair Vengeance DDR4-3200  
 Int. Storage: 256GB Verbatim Vi550 S3 SSD + 1TB Toshiba P110 HDD  
-
 Motherboard: Asrock A320M-HDV R4.0  
 Graphics: Asus Dual Mini GeForce GTX 1650 OC 4GB GDDR6  
 Case: CiT Tornado RGB  
 OS: Windows 10 Pro 20H2  
+Price: £600  
 
 Well, that's it for my main PC  
 Let's move onto the servers, shall we?  
@@ -29,12 +29,12 @@ It's an old HP-Compaq Elite 8200 SFF PC from 2011.
 
 CPU: Intel Core i5-2400 4c/4t @ 3.4GHz  
 RAM: 8GB DDR3-1333 (unknown brand)  
-Int. Storage: 256GB Kingston KC600 SATA3 SSD + 250GB WD Caviar Blue HDD  
+Int. Storage: 256GB Kingston KC600 SATA3 SSD + 1TB WD10EURX IntelliPower HDD  
 Ext. Storage: 2TB Toshiba Canvio Basics USB 3.0 HDD  
 Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)  
 Networking: Gigabit Ethernet  
 OS: Debian 10.9 (Buster)  
-Price: £70 + £12 for USB card = £82  
+Price: £70 + £32 for USB card and HDD = £102  
 
 \*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
   (I was getting SMART errors on boot and BSODs, so I had to do with the 250GB HDD on day one.)
