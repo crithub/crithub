@@ -39,7 +39,7 @@ Price: £70 + £32 for USB card and HDD = £102
 \*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
   (I was getting SMART errors on boot and BSODs, so I had to do with the 250GB HDD on day one.)
 
-### Web server (no assigned hostname, using Hetzner default)
+### Reverse Proxy server (no assigned hostname, using Hetzner default)
 
 This is simply just used as a reverse proxy for the Minecraft server (IP is cobalt-online.xyz)
 It's a Hetzner CX11 VPS, costing just £2.58 a month for the following resources.  
@@ -49,6 +49,8 @@ RAM: 2GB DDR4 (unknown)
 Storage: 20GB NVMe SSD  
 Networking: 10 Gigabit Ethernet  
 OS: Debian GNU/Linux 10.9 (Buster)  
+
+These same specs apply for the [Phantom Studios website](https://phantomstudios.biz)'s server.
 
 Well, that was a rundown of my specs I guess
 
