@@ -33,7 +33,7 @@ Int. Storage: 256GB Kingston KC600 SATA3 SSD + 1TB WD10EURX IntelliPower HDD
 Ext. Storage: 2TB Toshiba Canvio Basics USB 3.0 HDD  
 Motherboard: HP PCEBK0ED64N6J1 656933-001 (Intel Q67 Express chipset)  
 Networking: Gigabit Ethernet  
-OS: Debian 10.9 (Buster)  
+OS: Debian 10.10 (Buster)  
 Price: £70 + £32 for USB card and HDD = £102  
 
 \*It originally came with a SanDisk Pulse 64GB SSD with Windows 10 installed, which actually turned out to be dead.  
