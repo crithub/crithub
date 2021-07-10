@@ -22,7 +22,7 @@ Let's move onto the servers, shall we?
 
 ## Server Specs  
 
-### Cobalt-SRV
+### Sirius Alpha
 
 I bought this server not long ago (May 11th), and I've had some trouble with it for its first day or so*, but we're up and running now.  
 It's an old HP-Compaq Elite 8200 SFF PC from 2011.
